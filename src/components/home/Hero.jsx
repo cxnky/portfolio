@@ -55,7 +55,7 @@ export default function Hero() {
 
             {/* Content */}
             <div className="flex-1 text-center md:text-left">
-              <h1 className="text-4xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent 
+              <h1 className="text-4xl md:text-5xl font-bold mb-4 pb-2 bg-clip-text text-transparent 
                 bg-gradient-to-r from-blue-600 via-purple-600 to-teal-600 animate-gradient">
                 Connor Wright
               </h1>
