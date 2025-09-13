@@ -61,7 +61,7 @@ const workExperience = [
 const projects = [
   {
     title: "Asphalt",
-    description: "Asphalt is a Discord bot that I have been working on since 2016. It currently has over 85,000,000 users.",
+    description: "Asphalt is a Discord bot that I have been working on since 2016, benefitted by over £377,000 worth of sponsorship from Sentry (sentry.io) since 2017. It currently has over 86,000,000 users.",
     imageUrl: "/projects/asphalt.png",
     technologies: ["C#", ".NET", "Discord.Net", "SQL Server", "Redis", "Graylog", "Azure ServiceBus", "Rust", "Go", "CircleCI", "Entity Framework", "Microservices"],
     liveUrl: "https://asphaltbot.com"
